@@ -540,7 +540,7 @@ body .buttons-wrapper .slider > li {
 	background:#000;  
 }
 body .buttons-wrapper .slider > li:nth-child(1) {
-	background: url(../images/slide1.jpg)no-repeat center center;
+	background: url(../images/slide2.jpg)no-repeat center center;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-ms-background-size: cover;
